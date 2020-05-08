@@ -1,4 +1,4 @@
-# Hi Ava!
+# Hi human!
 I made this for you.
 
 ## <u>Build Setup</u>
